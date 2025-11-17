@@ -1,0 +1,21 @@
+{
+  "name": "tailwind-landing-page",
+  "version": "1.0.0",
+  "description": "Modern Landing Page using Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./input.css -o ./dist/output.css --minify",
+    "watch": "tailwindcss -i ./input.css -o ./dist/output.css --watch"
+  },
+  "keywords": [
+    "tailwind",
+    "css"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3"
+  }
+}

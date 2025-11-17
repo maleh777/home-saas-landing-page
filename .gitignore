@@ -1,0 +1,10 @@
+ECHO is on.
+# Dependency directory - ALWAYS ignore this!
+/node_modules
+
+# Build/Output directory 
+/dist
+
+# Operating System and IDE Files
+.DS_Store
+.env
