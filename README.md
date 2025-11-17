@@ -21,8 +21,8 @@ To clone and run this project locally, follow these simple steps.
 
 1.     Clone the Repository
     bash
-    git clone [Your GitHub Repository URL Here]
-    cd TAILWIND-LANDING-PAGE
+    git clone [https://github.com/maleh777/home-saas-landing-page]
+    cd home-saas-landing-page
     
 2.     Install Dependencies
     Use npm to install the required packages (Tailwind CSS, PostCSS, etc.) defined in package.json.
